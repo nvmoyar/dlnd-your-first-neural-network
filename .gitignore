@@ -7,8 +7,5 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+.ipynb_checkpoints/
 
-# Custom files       #
-######################
-
-DLND-your-first-NN-matrix-shapes.txt
