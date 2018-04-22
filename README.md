@@ -24,10 +24,6 @@ Eventually, we find that model is not learning well with the initially given hyp
 
 ![Feed Forward NN][image1]
 
-### Test 
-
-[Test](http://localhost:8888/notebooks/dlnd-your-first-network/dlnd-your-first-neural-network.ipynb)
-
 ### Dataset
 
 **The data comes from the UCI Machine Learning Database.**
@@ -55,3 +51,8 @@ Download anaconda or miniconda.
 >Run the following to open up the notebook:
 
 >jupyter notebook dlnd-your-first-neural-network.ipynb
+
+### Test 
+
+[Test](http://localhost:8888/notebooks/dlnd-your-first-network/dlnd-your-first-neural-network.ipynb)
+
